@@ -1,0 +1,39 @@
+
+header .nav-item .nav-link{
+    font-size: 20px;
+}
+
+
+button{
+    background-color: rgb(13, 122, 9);
+    color: aliceblue;
+    border: none;
+}
+button:hover{
+    background-color: rgb(8, 77, 19);
+}
+
+.card{
+    transition: 0.5s;
+
+}
+.card-text{
+    font-size: 20px;
+}
+ form{
+    background-image: url(images/tropical-wallpaper-with-different-leaves_52683-36520.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+ul li ,i{
+list-style-type: none;
+font-size: 20px;
+color: white;
+margin: 10px;
+}
+footer{
+    font-size: 20px;
+}
+
